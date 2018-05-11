@@ -31,7 +31,7 @@ export default {
 };
 </script>
 <style lang="scss">
-@import url("https://cdn.bootcss.com/element-ui/1.2.8/theme-default/index.css");
+@import url("https://cdn.bootcss.com/element-ui/1.2.8/theme-chalk/index.css");
 .head {
   background: #444;
   height: 50px;
